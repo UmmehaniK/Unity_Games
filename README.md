@@ -15,6 +15,22 @@ The player controls a soldier inside a guarded environment and must eliminate al
 **Language:** C#
 
 ---
+## 🎮 Gameplay Video
+
+Watch the complete gameplay demonstration of **IGI-3 — Third Person Shooter Game**:
+
+**▶️ [Watch Gameplay Video on Google Drive](https://drive.google.com/file/d/1W4UoNFDo20XIA9t9L-sS-ZxXxmoEZBLY/view?usp=sharing)**
+
+The video demonstrates:
+
+* Player movement and third-person camera
+* Enemy patrol and detection
+* Shooting and reload mechanics
+* Enemy AI combat
+* Health system
+* Enemy counter
+* Win and Game Over conditions
+* Complete gameplay flow
 
 ## 📌 Project Overview
 
